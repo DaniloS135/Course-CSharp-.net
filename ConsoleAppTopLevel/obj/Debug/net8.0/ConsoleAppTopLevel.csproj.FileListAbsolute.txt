@@ -1,0 +1,14 @@
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.exe
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.deps.json
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.runtimeconfig.json
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.dll
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\bin\Debug\net8.0\ConsoleAppTopLevel.pdb
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.AssemblyInfoInputs.cache
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.AssemblyInfo.cs
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.csproj.CoreCompileInputs.cache
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.dll
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\refint\ConsoleAppTopLevel.dll
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.pdb
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ConsoleAppTopLevel.genruntimeconfig.cache
+D:\Aulas\Curso de C#\Primeiro\ConsoleAppTopLevel\obj\Debug\net8.0\ref\ConsoleAppTopLevel.dll

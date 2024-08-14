@@ -1,0 +1,7 @@
+C:\Users\Danilo\source\repos\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Users\Danilo\source\repos\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+C:\Users\Danilo\source\repos\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+C:\Users\Danilo\source\repos\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+C:\Users\Danilo\source\repos\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+C:\Users\Danilo\source\repos\Variaveis\Variaveis\obj\Debug\Variaveis.pdb

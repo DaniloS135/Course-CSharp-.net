@@ -1,0 +1,14 @@
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\bin\Debug\net8.0\MyConsoleApp1.exe
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\bin\Debug\net8.0\MyConsoleApp1.deps.json
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\bin\Debug\net8.0\MyConsoleApp1.runtimeconfig.json
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\bin\Debug\net8.0\MyConsoleApp1.dll
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\bin\Debug\net8.0\MyConsoleApp1.pdb
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\obj\Debug\net8.0\MyConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\obj\Debug\net8.0\MyConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\obj\Debug\net8.0\MyConsoleApp1.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\obj\Debug\net8.0\MyConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\obj\Debug\net8.0\MyConsoleApp1.dll
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\obj\Debug\net8.0\refint\MyConsoleApp1.dll
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\obj\Debug\net8.0\MyConsoleApp1.pdb
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\obj\Debug\net8.0\MyConsoleApp1.genruntimeconfig.cache
+C:\Users\Danilo\source\repos\MySolution\MyConsoleApp1\obj\Debug\net8.0\ref\MyConsoleApp1.dll

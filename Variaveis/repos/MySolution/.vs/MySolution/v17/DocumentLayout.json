@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danilo\\source\\repos\\MySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA4D893-625D-42FA-9441-B4FC6D63CCF5}|MyConsoleApp1\\MyConsoleApp1.csproj|c:\\users\\danilo\\source\\repos\\mysolution\\myconsoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA4D893-625D-42FA-9441-B4FC6D63CCF5}|MyConsoleApp1\\MyConsoleApp1.csproj|solutionrelative:myconsoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo\\source\\repos\\MySolution\\MyConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Danilo\\source\\repos\\MySolution\\MyConsoleApp1\\Program.cs",
+              "RelativeToolTip": "MyConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:59:19.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\Aulas\Curso de C#\Primeiro\OláMundo\bin\Debug\net8.0-windows\OláMundo.exe
+D:\Aulas\Curso de C#\Primeiro\OláMundo\bin\Debug\net8.0-windows\OláMundo.deps.json
+D:\Aulas\Curso de C#\Primeiro\OláMundo\bin\Debug\net8.0-windows\OláMundo.runtimeconfig.json
+D:\Aulas\Curso de C#\Primeiro\OláMundo\bin\Debug\net8.0-windows\OláMundo.dll
+D:\Aulas\Curso de C#\Primeiro\OláMundo\bin\Debug\net8.0-windows\OláMundo.pdb
+D:\Aulas\Curso de C#\Primeiro\OláMundo\obj\Debug\net8.0-windows\OláMundo.Form1.resources
+D:\Aulas\Curso de C#\Primeiro\OláMundo\obj\Debug\net8.0-windows\OláMundo.csproj.GenerateResource.cache
+D:\Aulas\Curso de C#\Primeiro\OláMundo\obj\Debug\net8.0-windows\OláMundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\Curso de C#\Primeiro\OláMundo\obj\Debug\net8.0-windows\OláMundo.AssemblyInfoInputs.cache
+D:\Aulas\Curso de C#\Primeiro\OláMundo\obj\Debug\net8.0-windows\OláMundo.AssemblyInfo.cs
+D:\Aulas\Curso de C#\Primeiro\OláMundo\obj\Debug\net8.0-windows\OláMundo.csproj.CoreCompileInputs.cache
+D:\Aulas\Curso de C#\Primeiro\OláMundo\obj\Debug\net8.0-windows\OláMundo.dll
+D:\Aulas\Curso de C#\Primeiro\OláMundo\obj\Debug\net8.0-windows\refint\OláMundo.dll
+D:\Aulas\Curso de C#\Primeiro\OláMundo\obj\Debug\net8.0-windows\OláMundo.pdb
+D:\Aulas\Curso de C#\Primeiro\OláMundo\obj\Debug\net8.0-windows\OláMundo.genruntimeconfig.cache
+D:\Aulas\Curso de C#\Primeiro\OláMundo\obj\Debug\net8.0-windows\ref\OláMundo.dll
