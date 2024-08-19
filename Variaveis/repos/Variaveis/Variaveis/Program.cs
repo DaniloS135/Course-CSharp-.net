@@ -73,7 +73,12 @@ namespace Variaveis
             ////apesar de comportar diferentes tipos de variaveis, ela não se transforma nelas, por exemplo, ao utilizala com um numero inteiro, não será possível fazer calculos matemáticos com ela. Objetct transforma o dado em um objeto realmente.
             #endregion
 
-            Console.WriteLine();
+            const double pi = 3.1415;
+            const string dono = "Danilo Souza";
+
+
+
+            Console.WriteLine(dono);
             Console.ReadKey();
 
 

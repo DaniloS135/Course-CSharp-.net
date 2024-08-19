@@ -5,3 +5,10 @@ C:\Users\Danilo\source\repos\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.Asse
 C:\Users\Danilo\source\repos\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
 C:\Users\Danilo\source\repos\Variaveis\Variaveis\obj\Debug\Variaveis.exe
 C:\Users\Danilo\source\repos\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
+D:\Aulas\Curso de C#\Inicial\Variaveis\repos\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+D:\Aulas\Curso de C#\Inicial\Variaveis\repos\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+D:\Aulas\Curso de C#\Inicial\Variaveis\repos\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+D:\Aulas\Curso de C#\Inicial\Variaveis\repos\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+D:\Aulas\Curso de C#\Inicial\Variaveis\repos\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+D:\Aulas\Curso de C#\Inicial\Variaveis\repos\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+D:\Aulas\Curso de C#\Inicial\Variaveis\repos\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
