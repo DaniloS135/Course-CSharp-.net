@@ -60,11 +60,18 @@ namespace Variaveis
             ////se utilizar o @ no começo da mensagem da string, ele vai fazer com que seja ignorado os caracteres de escape, no caso o "\n" seria ignorado da forma de um caractere especial. Ele vai ser apresentado como um texto normal, literalmente um \n.
             #endregion
 
-            var valor = 100; //ela não tem um tipo definido até que seja declarado, se por exemplo utilizamos para algo númerico inicialmente, não poderemos colocar outros caracteres futuramente (ex:Escrever meu nome)
-            valor = 20;
+            #region Var
+            //var valor = 100; //ela não tem um tipo definido até que seja declarado, se por exemplo utilizamos para algo númerico inicialmente, não poderemos colocar outros caracteres futuramente (ex:Escrever meu nome)
+            //valor = 20;
+            #endregion
 
+            #region Object
+            //object obt = false;
+            //obt = 200;
+            //obt = "Danilo";
 
-
+            ////apesar de comportar diferentes tipos de variaveis, ela não se transforma nelas, por exemplo, ao utilizala com um numero inteiro, não será possível fazer calculos matemáticos com ela. Objetct transforma o dado em um objeto realmente.
+            #endregion
 
             Console.WriteLine();
             Console.ReadKey();
