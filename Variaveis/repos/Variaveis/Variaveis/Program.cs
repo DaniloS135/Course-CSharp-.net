@@ -8,6 +8,10 @@ namespace Variaveis
 {
     internal class Program
     {
+        enum Notas {
+            Mínimo = 10, Média = 20, Máxima = 30
+        }
+
         static void Main(string[] args)
         {
             #region Numericas Integrais
@@ -73,12 +77,17 @@ namespace Variaveis
             ////apesar de comportar diferentes tipos de variaveis, ela não se transforma nelas, por exemplo, ao utilizala com um numero inteiro, não será possível fazer calculos matemáticos com ela. Objetct transforma o dado em um objeto realmente.
             #endregion
 
-            const double pi = 3.1415;
-            const string dono = "Danilo Souza";
+            #region Constantes
+            //const double pi = 3.1415;
+            //const string dono = "Danilo Souza";
+            // 
+            #endregion
 
 
+            Notas notasAlunos = Notas.Máxima;
 
-            Console.WriteLine(dono);
+
+            Console.WriteLine(notasAlunos);
             Console.ReadKey();
 
 
