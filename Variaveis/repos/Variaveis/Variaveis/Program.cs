@@ -8,8 +8,12 @@ namespace Variaveis
 {
     internal class Program
     {
-        enum Notas {
-            Mínimo = 10, Média = 20, Máxima = 30
+
+        struct Pessoa 
+        {
+            public string nome;
+            public int idade;
+            public double altura;
         }
 
         static void Main(string[] args)
@@ -56,7 +60,7 @@ namespace Variaveis
             #endregion
 
             #region String (cadeia de caracteres)
-            //string texto = @"Danilo Souza\n 2002 @@??$$2"; //é boa para utilizar sequencias de caracteres ou basicamente um texto
+            //string texto = @"Danilo Souza 2002 @@??$$2"; //é boa para utilizar sequencias de caracteres ou basicamente um texto
             //string mensagem = null; //para deixar nulo
             //mensagem = texto; // para puxar o primeiro e "anular" o nulo
 
@@ -83,11 +87,47 @@ namespace Variaveis
             // 
             #endregion
 
+            #region Enumeração
+            //        enum Notas
+            //{
+            //    Mínimo = 10, Média = 20, Máxima = 30
+            //}
 
-            Notas notasAlunos = Notas.Máxima;
+            //Notas notasAlunos = Notas.Máxima;
+
+            //Ele deve vir no começo de tudo/ após o internal class
+            #endregion
 
 
-            Console.WriteLine(notasAlunos);
+            #region Strugs
+        //    Pessoa p1 = new Pessoa();
+
+        //    p1.altura = 1.82;
+        //    p1.idade = 21;
+        //    p1.nome = "Danilo";
+
+        //    Pessoa p2 = new Pessoa()
+        //    {
+        //        nome = "Denver",
+        //        idade = 12,
+        //        altura = 1.67
+        //    }; //um outro jeito de fazer, abrindo chaves antes de fechar, dá para adicionar os valores pois já estão dentro do escopo
+
+        //    p1.nome = "Vivian"; //dá para alterar os valores colocados
+
+        //Console.WriteLine(p1.nome);
+        //Console.WriteLine(p1.idade);
+        //Console.WriteLine(p1.altura);
+
+        //    Console.WriteLine();
+
+        //Console.WriteLine(p2.nome);
+        //    Console.WriteLine(p2.idade);
+        //    Console.WriteLine(p2.altura);
+
+        //    //podemos usar as strugs para definir estruturas de dados personalizados, definindo o tipo de daod que essa estrutura irá conter e definir os seus valores.
+#endregion
+
             Console.ReadKey();
 
 
