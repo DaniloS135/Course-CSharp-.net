@@ -37,6 +37,7 @@ namespace Variaveis
             //numero = 120;
             //numero = num1;
             #endregion
+
             #region Números Reais
             //float real1 = 100.5f; //32 bits, intervalo de 1,5 x 10-45 a 3,4 x 1038, precisão de 7 dígitos => Sufixo f, Ex.:10.5f
             //double real2 = 500.754; //64 bits intervalo de 5,0 x 10-324 a 1,7 x 10308, precisão de 15 dígitos => Sufixo d (opcional), Ex.: 10.5d
