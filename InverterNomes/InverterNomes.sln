@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InverterNomes", "InverterNomes\InverterNomes.csproj", "{3D53C89F-0035-49FA-B8B2-55537726E4DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D53C89F-0035-49FA-B8B2-55537726E4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D53C89F-0035-49FA-B8B2-55537726E4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D53C89F-0035-49FA-B8B2-55537726E4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D53C89F-0035-49FA-B8B2-55537726E4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDAF11E6-C3BC-4E4E-9F69-998E80574ADF}
+	EndGlobalSection
+EndGlobal

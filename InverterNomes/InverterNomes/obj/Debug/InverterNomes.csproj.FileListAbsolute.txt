@@ -1,0 +1,7 @@
+D:\Aulas\Curso de C#\Inicial\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe.config
+D:\Aulas\Curso de C#\Inicial\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe
+D:\Aulas\Curso de C#\Inicial\InverterNomes\InverterNomes\bin\Debug\InverterNomes.pdb
+D:\Aulas\Curso de C#\Inicial\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.AssemblyReference.cache
+D:\Aulas\Curso de C#\Inicial\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.CoreCompileInputs.cache
+D:\Aulas\Curso de C#\Inicial\InverterNomes\InverterNomes\obj\Debug\InverterNomes.exe
+D:\Aulas\Curso de C#\Inicial\InverterNomes\InverterNomes\obj\Debug\InverterNomes.pdb
