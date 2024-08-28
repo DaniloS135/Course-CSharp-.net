@@ -54,23 +54,39 @@ namespace Conversao
             //Console.ReadKey();
             #endregion
 
-            string txtNumero = "1985";
+            #region Método Parse
+            //string txtNumero = "1985";
 
-            int numero = int.Parse (txtNumero);
+            //int numero = int.Parse (txtNumero);
 
-            byte num1 = byte.Parse("155");
+            //byte num1 = byte.Parse("155");
 
-            double num2 = double.Parse ("125632,57");
+            //double num2 = double.Parse ("125632,57");
 
-            float num3 = float.Parse("457,75");
+            //float num3 = float.Parse("457,75");
 
-            //todos os tipos númericos possuem o método Parse, onde temos que passar por parametro um valor string que represente um valor númerico. A string pode estar em formato de variavel ou na forma literal.
-            //lembrando que as casas decimais devem ser separadas por virgula e não por pontos e o float não precisa da letra F
+            ////todos os tipos númericos possuem o método Parse, onde temos que passar por parametro um valor string que represente um valor númerico. A string pode estar em formato de variavel ou na forma literal.
+            ////lembrando que as casas decimais devem ser separadas por virgula e não por pontos e o float não precisa da letra F
 
 
-            Console.WriteLine(numero);
-            Console.ReadKey();
+            //Console.WriteLine(numero);
+            //Console.ReadKey();
+            #endregion
 
+            #region Convert
+            //string texto = Convert.ToString(2500);
+
+            //double num1 = Convert.ToDouble(false);
+
+            //int num2 = Convert.ToInt32('C');
+
+            //double num3 = Convert.ToDouble('C');
+
+            ////Classe convert contém métodos nos quais vão tentar mudar qualquer valor que for inserido no seu parametro para o retorno correspondente daquele método, seja int, seja string, seja double, etc.
+
+            //Console.WriteLine(texto);
+            //Console.ReadKey();
+            #endregion
 
 
 
