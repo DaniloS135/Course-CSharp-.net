@@ -24,15 +24,40 @@ namespace Operadores
             //Console.ReadKey();
             #endregion
 
-            int num1 = 100;
-            int num2 = 10;
-            int num3 = 5;
+            #region Precedência de Operadores
+            //int num1 = 100;
+            //int num2 = 10;
+            //int num3 = 5;
 
-            int res = (num1 + num2) * num3;
+            //int res = (num1 + num2) * num3;
 
-            Console.WriteLine(res);
+            //Console.WriteLine(res);
+            //Console.ReadKey();
+            ////ordem de prioridade = 1° (), 2° * e /, 3° + e -. Se tiverem o mesmo nivel de prioridade, vão fazer da esquerda para direita.
+            #endregion
+
+            int num = 10;
+
+            int resultado = num + 1;
+
+            int num1 = 10;
+
+            
+            num++; // mesma coisa de num1 = num1 + 1;
+            ++num1;
+
+            int num2 = 5;
+            num2--;
+
+
+           
+            Console.WriteLine(num);
             Console.ReadKey();
-            //ordem de prioridade = 1° (), 2° * e /, 3° + e -. Se tiverem o mesmo nivel de prioridade, vão fazer da esquerda para direita.
+            Console.WriteLine(num1);
+            Console.ReadKey();
+            Console.WriteLine(num2);
+
+
 
         }
     }
