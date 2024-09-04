@@ -36,26 +36,35 @@ namespace Operadores
             ////ordem de prioridade = 1° (), 2° * e /, 3° + e -. Se tiverem o mesmo nivel de prioridade, vão fazer da esquerda para direita.
             #endregion
 
-            int num = 10;
+            #region Operadores de Incremento e Decremento
+            //int num = 10;
 
-            int resultado = num + 1;
+            //int resultado = num + 1;
 
-            int num1 = 10;
-
-            
-            num++; // mesma coisa de num1 = num1 + 1;
-            ++num1;
-
-            int num2 = 5;
-            num2--;
+            //int num1 = 10;
 
 
-           
-            Console.WriteLine(num);
+            //num++; // mesma coisa de num1 = num1 + 1;
+            //++num1;
+
+            //int num2 = 5;
+            //num2--;
+
+
+
+            //Console.WriteLine(num);
+            //Console.ReadKey();
+            //Console.WriteLine(num1);
+            //Console.ReadKey();
+            //Console.WriteLine(num2);
+            #endregion
+
+            string nome = "Danilo ";
+            string sobrenome = "Souza";
+            string nomecompleto = nome + sobrenome;
+
+            Console.WriteLine(nomecompleto);
             Console.ReadKey();
-            Console.WriteLine(num1);
-            Console.ReadKey();
-            Console.WriteLine(num2);
 
 
 
